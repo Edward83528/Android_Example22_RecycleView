@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="title">
+        <item>籃球</item>
+        <item>羽球</item>
+        <item>棒球</item>
+        <item>桌球</item>
+        <item>保齡球</item>
+        <item>橄欖球</item>
+        <item>排球</item>
+
+
+    </string-array>
+</resources>
